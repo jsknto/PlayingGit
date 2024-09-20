@@ -8,6 +8,7 @@
 8. Texas Instruments
 9. IBM
 10. Qualcomm
+This the change one made in pato
 11. Intel
 12. AMD
 13. Analog Devices
@@ -33,6 +34,7 @@
 33. Samsung Electronics
 34. Foxconn
 35. Dell Technologies
+This the change two made in pato
 36. Huawei
 37. Sony
 38. Tencent
@@ -43,11 +45,13 @@
 43. Lenovo
 44. Panasonic
 45. Accenture
+This the change three made in pato
 46. Spotify
 47. Marvell Technology Group
 48. Shopify
 49. Arm Holdings
 50. Airbnb
+
 
 These companies are leaders in various sectors of technology, including software, hardware, semiconductors, and cloud services¹²³. If you need more information about any specific company, feel free to ask!
 
